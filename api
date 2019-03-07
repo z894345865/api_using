@@ -4,12 +4,12 @@ import hashlib
 import json
 import pprint
 
-appid = '12345678'
-key = 'dasd457dawgjj54j01qf'
+appid = '20190307000274854'
+key = 'WWBPRjInI96ehr8d4qCw'
 
 url = 'http://api.fanyi.baidu.com/api/trans/vip/translate?'
 # 需要翻译的文本
-q = '建设中国特色社会主义'
+q = '你好'
 # 原语言
 from_language = 'zh'
 # 目的语言
